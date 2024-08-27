@@ -1,0 +1,1 @@
+select ('akshay', 25, India)
